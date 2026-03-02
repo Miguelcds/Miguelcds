@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Joao Miguel Costa</h1>
+<h1 align="center">Hi 👋, I'm Joao Costa</h1>
 <h3 align="center">A passionate FullStack developer from Spain</h3>
 
 - 👨‍💻 All of my projects are available at [https://joaocosta-dev.netlify.app/](https://joaocosta-dev.netlify.app/)
