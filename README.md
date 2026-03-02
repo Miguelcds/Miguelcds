@@ -1,52 +1,54 @@
-<h1 align="center">Hey 👋 I'm João Costa</h1>
-<h3 align="center">FullStack Developer based in Spain 🇪🇸</h3>
+![Banner](https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif)
 
-<p align="center">
-Passionate about building scalable web applications and turning ideas into real digital products.
-</p>
-
-![Banner de mi cuenta](<https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif>)
+<h1 align="center">Hi 👋 I'm João Costa</h1>
+<h3 align="center">FullStack Developer in progress | Spain 🇪🇸</h3>
 
 ---
 
-### 🚀 About Me
+## 🧠 About Me
 
-- 💻 FullStack Developer focused on modern web technologies  
-- 🌱 Currently improving my backend architecture & DevOps skills  
-- 🎯 Goal: Build clean, scalable and maintainable systems  
-- 🌍 Based in Spain  
+I'm a FullStack developer currently finishing my studies in DAW.  
+I care about understanding systems deeply, not just making them work.
 
----
-
-### 🌐 Portfolio
-
-🔗 https://joaocosta-dev.netlify.app/
+I like building real projects, structuring clean backends and improving my architecture decisions every day.
 
 ---
 
-### 📫 Contact
+## 🚀 Current Focus
 
-📧 miguel-cds@hotmail.com  
-💼 LinkedIn: https://linkedin.com/in/miguelcds  
+- Writing scalable backend logic
+- Improving API structure
+- Clean and maintainable code
+- Growing from junior to solid developer
 
 ---
 
-### 🛠 Tech Stack
+## 🛠 Tech Stack
 
 **Frontend**
-HTML5 • CSS3 • JavaScript • React • Bootstrap  
+React • JavaScript • HTML • CSS • Bootstrap
 
 **Backend**
-Node.js • Express • Java • REST APIs  
+Node.js • Express • Java
 
 **Databases**
-MySQL • PostgreSQL • MongoDB • MariaDB • SQLite • Oracle  
+MySQL • PostgreSQL • MongoDB
 
-**DevOps & Tools**
-Git • Docker • AWS • Figma  
+**Tools**
+Git • Docker • AWS
+
+---
+
+## 📫 Contact
+
+- 🌐 Portfolio: https://joaocosta-dev.netlify.app/
+- 💼 LinkedIn: https://linkedin.com/in/miguelcds
+- 📧 miguel-cds@hotmail.com
 
 ---
 
 ### ⚡ Philosophy
 
-> Clean code. Clear architecture. Real impact.
+> Progress over perfection.  
+> Understanding over copying.  
+> Clean code over shortcuts.
