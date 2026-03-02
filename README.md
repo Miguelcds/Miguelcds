@@ -52,3 +52,7 @@ Git • Docker • AWS
 > Progress over perfection.  
 > Understanding over copying.  
 > Clean code over shortcuts.
+
+<p align="center">
+  <img src="./cyberpunk-banner.svg" />
+</p>
