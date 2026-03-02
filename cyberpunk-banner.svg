@@ -1,0 +1,69 @@
+<svg width="1200" height="340" viewBox="0 0 1200 340" xmlns="http://www.w3.org/2000/svg">
+
+  <defs>
+    <!-- Neon Gradient -->
+    <linearGradient id="neon" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%" stop-color="#ff0055"/>
+      <stop offset="50%" stop-color="#00f0ff"/>
+      <stop offset="100%" stop-color="#ff0055"/>
+      <animate attributeName="x1" values="0%;100%;0%" dur="6s" repeatCount="indefinite"/>
+      <animate attributeName="x2" values="100%;200%;100%" dur="6s" repeatCount="indefinite"/>
+    </linearGradient>
+
+    <!-- Hard Glow -->
+    <filter id="hardGlow">
+      <feDropShadow dx="0" dy="0" stdDeviation="8" flood-color="#00f0ff"/>
+      <feDropShadow dx="0" dy="0" stdDeviation="4" flood-color="#ff0055"/>
+    </filter>
+
+    <!-- Scanlines -->
+    <pattern id="scan" width="6" height="6" patternUnits="userSpaceOnUse">
+      <rect width="6" height="3" fill="rgba(255,255,255,0.03)"/>
+    </pattern>
+  </defs>
+
+  <!-- Background -->
+  <rect width="1200" height="340" fill="#050510"/>
+  <rect width="1200" height="340" fill="url(#scan)" />
+
+  <!-- Main Text Base -->
+  <text x="50%" y="55%" text-anchor="middle"
+        font-size="110"
+        font-weight="900"
+        font-family="Arial Black, Impact, sans-serif"
+        fill="url(#neon)"
+        filter="url(#hardGlow)"
+        letter-spacing="4"
+        dy=".3em">
+    JOÃO COSTA
+  </text>
+
+  <!-- Glitch Layer 1 -->
+  <text x="50%" y="55%" text-anchor="middle"
+        font-size="110"
+        font-weight="900"
+        font-family="Arial Black, Impact, sans-serif"
+        fill="#ff0055"
+        opacity="0.4"
+        letter-spacing="4"
+        dy=".3em">
+    JOÃO COSTA
+    <animateTransform attributeName="transform"
+      type="translate"
+      values="-5 0;5 0;-3 0;3 0;0 0"
+      dur="0.25s"
+      repeatCount="indefinite"/>
+  </text>
+
+  <!-- Subtitle -->
+  <text x="50%" y="82%" text-anchor="middle"
+        fill="#00f0ff"
+        font-size="28"
+        font-family="monospace"
+        opacity="0.8"
+        letter-spacing="6">
+    FULLSTACK DEVELOPER
+    <animate attributeName="opacity" values="0.4;1;0.4" dur="2s" repeatCount="indefinite"/>
+  </text>
+
+</svg>
